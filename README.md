@@ -35,7 +35,18 @@ The intended purpose is to test your backend skills, ranging from System design,
 5. Add "How to run instruction" in the area below
 
 ## How to run?
-To be added by the candidate
+
+1. Clone the project or download ZIP
+2. Open cloned/downloaded folder in your favorite code editor.
+3. Open command prompt / terminal of vs code and enter command:
+    ```
+    npm i
+    ```
+
+4. Run the project using command:
+    ```
+    node index.js
+    ```
 
 ## Deadline
 Please complete it within 3 days of assignment. 
