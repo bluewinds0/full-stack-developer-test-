@@ -35,7 +35,24 @@ The intended purpose is to test your backend skills, ranging from System design,
 5. Add "How to run instruction" in the area below
 
 ## How to run?
-To be added by the candidate
+First Create .env file in server folder and add the following details 
+DB = "Your database link"
+JWTPRIVATEKEY = "Json Web token Secret Key"
+SALT = 10
+Then run 
+"npm install"
+command to install the dependencies in server folder.
+And then run 
+"node index.js"
+command to run the backend of Web app
+
+After this
+Move into client folder run 
+"npm install"
+command to install the dependencies in client folder.
+And then run 
+"npm start"
+command to run the frontend of Web app.
 
 ## Deadline
 Please complete it within 3 days of assignment. 
